@@ -13,5 +13,6 @@ public class MinMax {
 		}
 		Arrays.sort(arr);
 		System.out.println(arr[0] + " " + arr[n-1]);
+		
 	}
 }
