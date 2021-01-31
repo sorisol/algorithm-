@@ -1,4 +1,4 @@
-package co.kr.programmers;
+package co.kr.programmers.level1;
 
 public class GetTheMiddleChar {
 
