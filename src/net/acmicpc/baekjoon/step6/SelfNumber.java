@@ -12,9 +12,10 @@ public class SelfNumber {
 		 
 		for (int i = 1; i <= 10000; i++){
 			int n = s.solution(i);
-			System.out.println(n);
+			System.out.println("n = "+n);
 			if(n < 10001){	
 				check[n] = true;
+				System.out.println("check = "+check[n]);
 			}
 		}
  
